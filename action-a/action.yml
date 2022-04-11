@@ -28,6 +28,6 @@ runs:
 
 branding:
 
-  icon: "mic"
+  icon: "vertical_traffic_light"
 
-  color: "purple"
+  color: "yellow"
